@@ -16,8 +16,9 @@ html, body {
 
 .img-box {
     color: green;
-
+    margin: 4px; /* added 4px margin to element. */
 }
+
 
 /* set <img> have a 2px border width with [solid] style and [red] color. */
 div > img {
